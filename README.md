@@ -84,12 +84,8 @@ Compare the original modulating signal with the demodulated signal.
 
 # TABULATION
 
-| Sl. No. | Signal             | Amplitude (V) Theory | Amplitude (V) Practical | Frequency (Hz) Theory | Frequency (Hz) Practical |
-| ------- | ------------------ | -------------------- | ----------------------- | --------------------- | ------------------------ |
-| 1       | Message Signal     |                      |                         |                       |                          |
-| 2       | Carrier Signal     |                      |                         |                       |                          |
-| 3       | Modulated Signal   |                      |                         |                       |                          |
-| 4       | Demodulated Signal |                      |                         |                       |                          |
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/de020c3b-52b7-4159-b023-f782f27852b1" />
+
 
 **Modulated Signal:**
 
@@ -97,10 +93,9 @@ Compare the original modulating signal with the demodulated signal.
 * Emin =
 
 # CALCULATION
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/497a5dec-7ac6-4aaf-89d8-d31d8a0cb622" />
 
-1. **ma (Theory) = am/ac =**
 
-2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
 
 
 
